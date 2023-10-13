@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+    background-color: #222;
+    color: #fff;
+    padding: 2rem 0;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
